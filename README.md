@@ -4,6 +4,8 @@
 
 This analysis uses the data of __“New York Citi Bike “__ trips during month of August to build a business proposal for a bike-sharing program in __Des Moines__ using the analytic tool __Tableau__ to create __data visualization__ that is easy to use and understand.
 
+Follow my Tableau story. You can check here https://public.tableau.com/app/profile/nishita.sapra/viz/NYCitiBike_Challange/NYCitiBikesStory
+
 # Results
 
 August is a beautiful time of the year to rent a bike, let’s have a look at analysis performed on that data and its visualizations.
@@ -83,7 +85,7 @@ August is a beautiful time of the year to rent a bike, let’s have a look at an
 
     The above visualization shows stations that had max trips during weekdays per hour. This visualization helps us to decide busy stations and how to manage bikes         over   there. 
     
-    Folowing are few results from Tableau story. You can check here https://public.tableau.com/app/profile/nishita.sapra/viz/NYCitiBike_Challange/NYCitiBikesStory
+    Follow my Tableau story. You can check here https://public.tableau.com/app/profile/nishita.sapra/viz/NYCitiBike_Challange/NYCitiBikesStory
     
 
 

@@ -82,6 +82,9 @@ August is a beautiful time of the year to rent a bike, let’s have a look at an
     ![stations_max_trips](https://user-images.githubusercontent.com/107717882/191594692-1bc793a8-84de-4a3a-a74e-b81e3e86d4c4.png)
 
     The above visualization shows stations that had max trips during weekdays per hour. This visualization helps us to decide busy stations and how to manage bikes         over   there. 
+    
+    Folowing are few results from Tableau story. You can check here 
+    [link to dashboard] (https://public.tableau.com/app/profile/nishita.sapra/viz/NYCitiBike_Challange/NYCitiBikesStory?publish=yes)
 
 
 
